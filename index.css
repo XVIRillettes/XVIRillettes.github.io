@@ -2,7 +2,7 @@
 
 body {
     background-color: #000000;
-    color: black;
+    color: white;
     font-family:intimacy;
     font-size: 20 px;
     
@@ -18,7 +18,7 @@ body {
     color: green;
     font-size: 35 px;
     text-align: left;
-    border-bottom: 1 px black solid;
+    border-bottom: 1 px white solid;
     width: 125 px;
     
     
