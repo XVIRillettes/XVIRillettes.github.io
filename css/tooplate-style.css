@@ -7,6 +7,8 @@
 */
 body {	
 	background-image: url('img/A.jpg');
+	background-position: center;
+	background-size: cover;
 	position: relative;
 	color: black;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
