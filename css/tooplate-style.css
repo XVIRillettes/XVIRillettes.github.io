@@ -6,7 +6,7 @@
 
 */
 body {	
-	background: url('/img/A');
+	background-image: url('/img/A');
 	position: relative;
 	color: black;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
