@@ -16,7 +16,7 @@ body {
 }
 
 .cd-bg-video-wrapper {
-	background-video: video/Post Scriptum CHAPTER RICHELIEU OPERATION DEADSTICK OUT NOW!.mp4;
+	background: video/Post Scriptum CHAPTER RICHELIEU OPERATION DEADSTICK OUT NOW!.mp4;
 	position: fixed;
 	width: 100vw;
 	height: 100vh;
@@ -35,7 +35,7 @@ body {
     height: auto;
     z-index: -100;
     transform: translateX(-50%) translateY(-50%);
-	background: url('../img/bangkok-city.jpg') no-repeat;
+	background: url('../video/Post Scriptum CHAPTER RICHELIEU OPERATION DEADSTICK OUT NOW!.mp4') no-repeat;
 	background-size: cover;
 	transition: 1s opacity;
 }
