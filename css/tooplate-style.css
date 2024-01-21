@@ -1,16 +1,6 @@
-/*
 
-
-
-
-
-*/
-.header {	
-	 
-	width: 100%;
-	background: #326AA1;
-	background-position: center;
-	background-size: cover;
+body {	
+	background: #1A2D4B;
 	position: relative;
 	color: black;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
